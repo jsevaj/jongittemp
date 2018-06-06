@@ -2,6 +2,6 @@
     {
         "action": "talk",
         "voice_name": "Russell",
-        "text": "hello world"
+        "text": "<speak>hello world</speak>"
     }
 ]
