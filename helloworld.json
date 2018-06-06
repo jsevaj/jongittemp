@@ -2,6 +2,6 @@
     {
         "action": "talk",
         "voiceName": "Russell",
-        "text": "<speak>hello world</speak>"
+        "text": "<speak>hello <break time='3s' />world</speak>"
     }
 ]
