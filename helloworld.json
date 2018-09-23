@@ -1,7 +1,9 @@
 [
     {
         "action": "talk",
-        "voice_name": "Russell",
-        "text": "hello world"
+        "voiceName": "Russell",
+        "text": "<speak>hello <break time='1s' />w<break time='1s' />o<break time='1s' />r<break time='1s' />l<break time='1s' />d</speak>",
+        "loop": 1,
+        "level": 0        
     }
 ]
